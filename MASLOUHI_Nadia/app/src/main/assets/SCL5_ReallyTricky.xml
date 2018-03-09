@@ -1,0 +1,9 @@
+<PuzzleData name="SCL5_ReallyTricky" width="16" height="10" numColours="4" colours="4442444211111444434224221444144243442224133333324334424333222232223222432224143421311113241114342133444324144434214342232111433322222243114133434143333314443444"  gold="4" silver="5" bronze="6">
+<Solution length="4">
+<Turn x="6" y="5" colour="3"/>
+<Turn x="10" y="2" colour="2"/>
+<Turn x="7" y="5" colour="4"/>
+<Turn x="7" y="5"  colour="1"/>
+</Solution>
+</PuzzleData>
+

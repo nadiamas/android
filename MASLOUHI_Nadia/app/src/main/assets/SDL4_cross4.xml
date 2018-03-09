@@ -1,0 +1,9 @@
+<PuzzleData name="SDL4_cross4" width="16" height="10" numColours="4" colours="1121411211121131442444444442444411214112111211313333433333323333112141121112113111214112111211314424444244444434112141121112113133334332333333331121411211121131" gold="5" silver="6" bronze="7">
+    <Solution length="5">
+        <Turn x="11" y="3" colour="4"/>
+        <Turn x="4" y="3" colour="3"/>
+        <Turn x="7" y="3" colour="2"/>
+        <Turn x="7" y="3" colour="4"/>
+        <Turn x="7" y="3" colour="1"/>
+    </Solution>
+</PuzzleData>

@@ -1,0 +1,7 @@
+<PuzzleData name="SEL1_BlackWave" width="16" height="10" numColours="4"  colours="4333333333333334431131113111313443313131313131344221212121212124422121212121212442212121212121244221212121212124433131313131313443311131113111344333333333333334" gold="3" silver="4" bronze="5">
+    <Solution length="3">
+        <Turn x="2" y="1" colour="2"/>
+        <Turn x="2" y="1" colour="3"/>
+        <Turn x="2" y="1" colour="4"/>
+    </Solution>
+</PuzzleData>

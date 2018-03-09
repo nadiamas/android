@@ -1,0 +1,9 @@
+<PuzzleData name="SCL3_AnnoyingPipes" width="16" height="10" numColours="4" colours="2444244444444444224224443334332442224444343434144424444434341414442411143414142444141414341114244214141434444424434414141444422243331411144422424444444444442444" gold="4" silver="5" bronze="6">
+<Solution length="4">
+<Turn x="6" y="1" colour="1"/>
+<Turn x="3" y="3" colour="3"/>
+<Turn x="3" y="3" colour="2"/>
+<Turn x="3" y="3" colour="4"/>
+</Solution>
+</PuzzleData>
+

@@ -1,0 +1,9 @@
+<PuzzleData name="SP1L8_NewLoops" width="16" height="10" numColours="4" colours="4411222144111333411224211112234331324323332242333142232443334241314343333233421131131111121111143322224333332244433342334222214444222243333311144442244444444144"  gold="5" silver="6" bronze="7">
+    <Solution length="5">
+        <Turn x="10" y="5" colour="3"/>
+        <Turn x="15" y="2" colour="2"/>
+        <Turn x="10" y="6" colour="1"/>
+        <Turn x="1" y="2" colour="3"/>
+        <Turn x="10" y="6" colour="4"/>
+    </Solution>
+</PuzzleData>

@@ -1,0 +1,12 @@
+<PuzzleData name="SConvL3" width="16" height="10" numColours="4"  colours="5333355121522222131122122551111133133213333331512222534421311252214444143111222324214533211114542444332211113325333222444123133332555515121331332212511444253414" gold="8" silver="9" bronze="10">
+    <Solution>
+        <Turn x="9" y="6" colour="2"/>
+        <Turn x="8" y="6" colour="3"/>
+        <Turn x="8" y="6" colour="4"/>
+        <Turn x="1" y="6" colour="2"/>
+        <Turn x="1" y="6" colour="3"/>
+        <Turn x="9" y="6" colour="5"/>
+        <Turn x="4" y="7" colour="1"/>
+        <Turn x="5" y="8" colour="2"/>
+    </Solution>
+</PuzzleData>

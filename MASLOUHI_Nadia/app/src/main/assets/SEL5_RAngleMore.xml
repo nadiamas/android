@@ -1,0 +1,9 @@
+<PuzzleData name="SEL5_RAngleMore" width="16" height="10" numColours="4" colours="4411114443444344441444444342222242122222434243444414433233424344244444424112111121111142414243442444414241444344222431333133334444444142414444444444414444444444" gold="5" silver="6" bronze="7">
+    <Solution length="5">
+        <Turn x="3" y="3" colour="1"/><!-- (0,0)-->
+        <Turn x="6" y="8" colour="1"/><!-- (6,7)-->
+        <Turn x="4" y="4" colour="2"/><!-- (0,0)-->
+        <Turn x="4" y="4" colour="3"/><!-- (0,0)-->
+        <Turn x="4" y="4" colour="4"/><!-- (0,0)-->
+    </Solution>
+</PuzzleData>

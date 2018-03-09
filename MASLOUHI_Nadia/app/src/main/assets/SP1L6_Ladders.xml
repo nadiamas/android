@@ -1,0 +1,8 @@
+<PuzzleData name="SP1L6_Ladders" width="16" height="10" numColours="4" colours="4432344444433344113331111111111121323121212121211133311111111111443234444443334444333444444343441111111111133311141414141413431411111111111333114411144444434344" gold="4" silver="5" bronze="6">
+    <Solution length="4">
+        <Turn x="5" y="1" colour="3"/><!-- (5,1)-->
+        <Turn x="2" y="5" colour="1"/><!-- (5,1)-->
+        <Turn x="5" y="1" colour="2"/><!-- (5,1)-->
+        <Turn x="11" y="5" colour="4"/><!-- (5,1)-->
+    </Solution>
+</PuzzleData>

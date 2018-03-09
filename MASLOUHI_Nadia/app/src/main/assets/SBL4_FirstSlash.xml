@@ -1,0 +1,7 @@
+<PuzzleData name="SBL4_FirstSlash" width="16" height="10" numColours="4" colours="1111111111121111111111111121111111111111121111111111111121111111111111121111111111111121111111111111121111113131111121111111131111121111111131311121111111111111" gold="3" silver="4" bronze="5">
+    <Solution length="3">
+        <Turn x="3" y="2" colour="2"/>
+        <Turn x="8" y="6" colour="2"/>
+        <Turn x="3" y="2" colour="3"/>
+    </Solution>
+</PuzzleData>

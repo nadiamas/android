@@ -1,0 +1,9 @@
+<PuzzleData name="SEL2_BrokenWave" width="16" height="10" numColours="4" colours="4333333333333334433434443444343443343434343434344221212121212124422121212121212442212121212121244221212121212124433434343434343443344434443444344333333333333334"  gold="5" silver="6" bronze="7">
+    <Solution length="5">
+        <Turn x="2" y="2" colour="4"/><!-- (0, 1)-->
+        <Turn x="6" y="1" colour="1"/><!-- (0, 1)-->
+        <Turn x="11" y="5" colour="2"/><!-- (0, 1)-->
+        <Turn x="6" y="1" colour="4"/><!-- (0, 1)-->
+        <Turn x="11" y="5" colour="3"/><!-- (0, 1)-->
+    </Solution>
+</PuzzleData>

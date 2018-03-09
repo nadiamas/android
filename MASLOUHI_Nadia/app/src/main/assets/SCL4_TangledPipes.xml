@@ -1,0 +1,9 @@
+<PuzzleData name="SCL4_TangledPipes" width="16" height="10" numColours="4" colours="4112444211111444114224224444144214442224433313324434424333221222223222432224143424344443241114342433444324144434244342232111433322222243114133434443333314443444" gold="4" silver="5" bronze="6">
+<Solution length="4">
+    <Turn x="5" y="4" colour="1"/>
+    <Turn x="9" y="0" colour="3"/>
+    <Turn x="7" y="5" colour="2"/>
+    <Turn x="2" y="0" colour="4"/>
+</Solution>
+</PuzzleData>
+

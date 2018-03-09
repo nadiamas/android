@@ -1,0 +1,8 @@
+<PuzzleData name="SP1L3_Boxes2" width="16" height="10" numColours="4" colours="2222222222222222211111232333333221324123234444322132412323433432213241232343343221324123234334322132412323433432213241232344443221111123233333322222222222222222" gold="4" silver="5" bronze="6">
+    <Solution length="4">
+        <Turn x="1" y="1" colour="2"/><!-- (1, 1)-->
+        <Turn x="8" y="4" colour="3"/><!-- (1, 1)-->
+        <Turn x="5" y="4" colour="4"/><!-- (1, 1)-->
+        <Turn x="8" y="4" colour="3"/><!-- (1, 1)-->
+    </Solution>
+</PuzzleData>

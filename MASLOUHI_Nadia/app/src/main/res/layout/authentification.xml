@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background=" #ebf5fb"
+    >
+
+    <TextView
+        android:id="@+id/txtJoueur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/edtJoueur"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/edtJoueur"
+        android:layout_marginTop="32dp"
+        android:text="Joueur : "
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/edtJoueur"
+        android:layout_alignStart="@+id/edtJoueur"
+        android:layout_below="@+id/edtJoueur"
+        android:layout_marginTop="58dp"
+        android:text="Mot de passe"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edtJoueur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtJoueur"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/edtPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="25dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/btnCnx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtPassword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="49dp"
+        android:text="Connexion" />
+
+    <Button
+        android:id="@+id/btnInscription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnCnx"
+        android:layout_alignStart="@+id/btnCnx"
+        android:layout_below="@+id/btnCnx"
+        android:layout_marginTop="41dp"
+        android:text="inscription" />
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<StageData name="Conv" theme="themeConv" order="1" displayName="Convolution" iapName="com.stateofplaygames.kami.pack_conv">
+	<Puzzle name="SConvL1" />
+	<Puzzle name="SConvL2" />
+	<Puzzle name="SConvL3" />
+	<Puzzle name="SConvL4" />
+	<Puzzle name="SConvL5" />
+	<Puzzle name="SConvL6" />
+	<Puzzle name="SConvL7" />
+	<Puzzle name="SConvL8" />
+	<Puzzle name="SConvL9" />
+</StageData>

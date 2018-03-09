@@ -1,0 +1,8 @@
+<PuzzleData name="SEL4_RAngleStart" width="16" height="10" numColours="4"  colours="4411114443444344441444444344434442122222434443444414433233444344444444424111131144444442414443444444444241444344444433333333334444444442414444444444444444444444"  gold="4" silver="5" bronze="6">
+    <Solution length="4">
+        <Turn x="2" y="6" colour="2"/><!-- (0,0)-->
+        <Turn x="5" y="2" colour="3"/><!-- (0,0)-->
+        <Turn x="13" y="4" colour="1"/><!-- (0,0)-->
+        <Turn x="2" y="6" colour="4"/><!-- (0,0)-->
+    </Solution>
+</PuzzleData>

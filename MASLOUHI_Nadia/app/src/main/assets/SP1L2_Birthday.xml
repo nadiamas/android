@@ -1,0 +1,7 @@
+<PuzzleData name="SP1L2_Birthday" width="16" height="10" numColours="4" colours="3333343333333333322334433333334332211143334333333221112233333433322111223333333332211122333433333221112233333333322111433343334332233443333343333333343333333333" gold="3" silver="4" bronze="5">
+    <Solution length="4">
+        <Turn x="3" y="2" colour="2"/><!-- (3, 2)-->
+        <Turn x="6" y="5" colour="3"/><!-- (3, 2)-->
+        <Turn x="6" y="5"  colour="4"/><!-- (3, 2)-->
+    </Solution>
+</PuzzleData>

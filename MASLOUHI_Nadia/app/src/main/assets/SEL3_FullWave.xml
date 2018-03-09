@@ -1,0 +1,9 @@
+<PuzzleData name="SEL3_FullWave" width="16" height="10" numColours="4" colours="3333333333333333344434443444344434343434343434342121212121212121212121212121212121212121212121212121212121212121343434343434343444344434443444343333333333333333" gold="5" silver="6" bronze="7">
+    <Solution length="5">
+        <Turn x="4" y="2" colour="4"/><!-- (0, 1)-->
+        <Turn x="6" y="1" colour="1"/><!-- (0, 1)-->
+        <Turn x="11" y="5" colour="2"/><!-- (0, 1)-->
+        <Turn x="6" y="1" colour="4"/><!-- (0, 1)-->
+        <Turn x="11" y="5" colour="3"/><!-- (0, 1)-->
+    </Solution>
+</PuzzleData>

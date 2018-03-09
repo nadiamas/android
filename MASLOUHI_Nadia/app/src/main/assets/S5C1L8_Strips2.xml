@@ -1,0 +1,10 @@
+<PuzzleData name="S5C1L8_Strips2" width="16" height="10" numColours="4" colours="5545535515555545114111111111114155455355155555455545535515555545222223221222224255455355555555455545555515355545224222222232222255455555153555455545555515355545" gold="6" silver="7" bronze="8">
+    <Solution length="6">
+        <Turn x="3" y="5" colour="4"/><!-- (3, 5)-->
+        <Turn x="7" y="5" colour="2"/><!-- (3, 5)-->
+        <Turn x="2" y="4" colour="4"/><!-- (3, 5)-->
+        <Turn x="7" y="5" colour="1"/><!-- (3, 5)-->
+        <Turn x="7" y="1" colour="3"/><!-- (3, 5)-->
+        <Turn x="3" y="5" colour="5"/><!-- (3, 5)-->
+    </Solution>
+</PuzzleData>

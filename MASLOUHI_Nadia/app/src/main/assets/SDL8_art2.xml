@@ -1,0 +1,10 @@
+<PuzzleData name="SDL8_art2" width="16" height="10" numColours="4" colours="2222214233222212224412423322222224214242334422122412424234224222214422423422421212222242342242222222214113442212222221411322222222222141132222122222214113222222" gold="6" silver="7" bronze="8">
+    <Solution length="6">
+        <Turn x="6" y="6" colour="1"/>
+        <Turn x="7" y="8" colour="3"/>
+        <Turn x="6" y="6" colour="2"/>
+        <Turn x="6" y="2" colour="4"/>
+        <Turn x="6" y="2" colour="2"/>
+        <Turn x="6" y="2" colour="1"/>
+    </Solution>
+</PuzzleData>

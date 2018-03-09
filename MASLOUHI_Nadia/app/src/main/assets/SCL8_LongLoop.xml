@@ -1,0 +1,10 @@
+<PuzzleData name="SCL8_LongLoop" width="16" height="10" numColours="4" colours="4444444422233334442222112143223411214214214332341421421111444244111142222444111444244444333412144224444432322214424111122234111442222212343444444441111433344444" gold="5" silver="6" bronze="7">
+<Solution length="5">
+    <Turn x="8" y="5" colour="2"/>
+    <Turn x="4" y="1" colour="1"/>
+    <Turn x="6" y="3" colour="2"/>
+    <Turn x="6" y="3" colour="3"/>
+    <Turn x="6" y="3" colour="4"/>
+</Solution>
+</PuzzleData>
+

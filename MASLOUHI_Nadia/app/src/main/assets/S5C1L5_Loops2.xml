@@ -1,0 +1,10 @@
+<PuzzleData name="S5C1L5_Loops2" width="16" height="10" numColours="4" theme="theme5Col" colours="1122252225333355152125252535535511212544444422225525254215142552552323341444333255232535151532225553543444153335444334351115222245545455333325524444544444532222" gold="6" silver="7" bronze="8">
+    <Solution length="6">
+        <Turn x="4" y="1" colour="3"/><!-- (4, 1)-->
+        <Turn x="6" y="5" colour="4"/><!-- (4, 1)-->
+        <Turn x="10" y="2" colour="3"/><!-- (4, 1)-->
+        <Turn x="2" y="2" colour="1"/><!-- (4, 1)-->
+        <Turn x="7" y="2" colour="2"/><!-- (4, 1)-->
+        <Turn x="7" y="2" colour="5"/><!-- (4, 1)-->
+    </Solution>
+</PuzzleData>

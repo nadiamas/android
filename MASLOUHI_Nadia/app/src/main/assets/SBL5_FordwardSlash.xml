@@ -1,0 +1,7 @@
+<PuzzleData name="SBL5_FordwardSlash" width="16" height="10" numColours="4"  colours="1111111111121111111111111121111111111111121111111111111141111111111111121111111111111121111111111111121111113131111121111111131111121111111131311121111111111111" gold="3" silver="4" bronze="5">
+    <Solution length="3">
+        <Turn x="8" y="3" colour="1"/>
+        <Turn x="4" y="3" colour="2"/>
+        <Turn x="4" y="3" colour="3"/>
+    </Solution>
+</PuzzleData>
